@@ -7,8 +7,8 @@
     <ProjectGuid>{16E3F076-0420-44EE-ADC5-ADF5F3E657F4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TarkovCheats</RootNamespace>
-    <AssemblyName>TarkovCheats</AssemblyName>
+    <RootNamespace>TarkovReshade</RootNamespace>
+    <AssemblyName>TarkovReshade</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

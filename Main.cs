@@ -6,7 +6,7 @@ using EFT;
 using System.IO;
 using System.Runtime.InteropServices;
 
-namespace TarkovCheats
+namespace TarkovReshade
 {
     public class Main : MonoBehaviour
     {
