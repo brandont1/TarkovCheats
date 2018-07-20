@@ -1,3 +1,5 @@
-# TarkovCheats
+# TarkovReshade
 
-Source to my mono dll from UC.
+Original source from zeus, updated.
+
+or, will update.
