@@ -12,5 +12,9 @@ namespace TarkovReshade
         {
             new Main().Load();
         }
+        private static void Unload()
+        {
+            new Main().Unload();
+        }
     }
 }
